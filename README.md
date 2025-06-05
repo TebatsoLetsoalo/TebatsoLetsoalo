@@ -1,7 +1,6 @@
-## Hi there 👋
 
-<!--
-**TebatsoLetsoalo/TebatsoLetsoalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ 👋 Hi there, I'm Tebatso Letsoalo
 
 🎓 **Aspiring Data Scientist** | 📍 Pretoria, Gauteng, South Africa  
 📧 [tebatsoletsoalo1920@gmail.com](mailto:tebatsoletsoalo1920@gmail.com)  
@@ -30,6 +29,13 @@ With a growing interest in data analytics, machine learning, and statistical mod
 **Belgium Campus**  
 Bachelor of Technology – BTech, Data Science  
 *September 2023 – December 2027*
+
+---
+
+## 🎓 Certifications & Masterclasses
+
+- Attended **A Glimpse into ERP** Masterclass
+- Attended **Agentic Automation** Masterclass
 
 ---
 
